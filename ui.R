@@ -34,7 +34,7 @@ shinyUI(
         p("The vertical bars represent actual laboratory test restuls.  The projection algorithm uses more information than what is displayed on the chart, so your projected results may be higher or lower than the bars. "),
         hr(),
         h5("Attribution:"),
-        helpText("Data provided as part of the car package.  The original source is Box and Cox (1964), Journal of the Royal Statistical Society, B26, pp. 211-46")
+        helpText("Data provided as part of the car package.  The original source is Box and Cox (1964), Journal of the Royal Statistical Society, B26, pp. 211-46.")
       ),
       
       # Create a spot for the barplot
